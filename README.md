@@ -36,6 +36,14 @@
 
 
 
+## Como vizualizar o projeto?
+
+
+- acesse o link abaixo:
+
+
+https://tariqassis.github.io/app-clima-api/
+
 
 
 ## Screenshots
